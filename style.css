@@ -1,10 +1,19 @@
+
+body {
+  font-family: "Montserrat", sans-serif;
+  color: #454545;
+  margin: 0px;
+  padding: 0px;
+  background-color: #814681;
+  background-image: url('bkgd2.png');
+}
+.page {
+  width: 80%;
+  max-width: 960px;
+  margin: 0 auto;
+}
 .ball, .button {
   margin: 0 auto;
-
-.page {
-  background-color: #f16059;
-}
-
 }
 .answer {
   position:absolute;
